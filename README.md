@@ -1,29 +1,3 @@
-# BukuHub - Sistem Perpustakaan QR Code
-
-[![PHP Composer](https://github.com/ikhsan3adi/sistem-perpustakaan-qr-code/actions/workflows/php.yml/badge.svg)](https://github.com/ikhsan3adi/sistem-perpustakaan-qr-code/actions/workflows/php.yml)
-
-![Preview](https://github.com/ikhsan3adi/sistem-perpustakaan-qr-code/raw/main/screenshots/home.png)
-
-## Fitur
-
-- Login, Register & Magic login link (via Email)
-- Dashboard admin
-- QR Code anggota
-- QR Code peminjaman
-- Sistem denda
-- Dan lainnya.
-
-## Framework dan Library Yang Digunakan
-
-- [CodeIgniter 4](https://codeigniter.com/)
-- [CodeIgniter Shield](https://codeigniter4.github.io/shield/)
-- [Bootstrap 5](https://getbootstrap.com/)
-- [Modernize Free Bootstrap 5 Admin Template](https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/)
-- [Tabler Icons](https://tabler-icons.io/)
-- [Apex Charts](https://apexcharts.com/)
-- [Endroid QR Code Generator](https://github.com/endroid/qr-code)
-- [Mebjas Html5-QRCode Scanner](https://github.com/mebjas/html5-qrcode)
-
 ## Cara Penggunaan
 
 ### Persyaratan
@@ -87,20 +61,3 @@ username : superadmin
 email    : superadmin@admin.com
 password : superadmin
 ```
-
-## Contributing
-
-Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
-
-## Donasi
-
-[![Donate paypal](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge)](https://paypal.me/xannxett?country.x=ID&locale.x=en_US)
-[![Donate saweria](https://img.shields.io/badge/Donate-Saweria-red?style=for-the-badge&link=https%3A%2F%2Fsaweria.co%2Fxiboxann)](https://saweria.co/xiboxann)
-
-## Lisensi
-
-[![GitHub license](https://img.shields.io/github/license/ikhsan3adi/sistem-perpustakaan-qr-code?style=for-the-badge)](https://github.com/ikhsan3adi/sistem-perpustakaan-qr-code/raw/main/LICENSE)
-
-## Authors
-
-- [@ikhsan3adi](https://www.github.com/ikhsan3adi)
